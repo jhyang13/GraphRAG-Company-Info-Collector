@@ -28,11 +28,11 @@ This project aims to build a scalable company information collection system usin
   - Show how insights from the knowledge graph and LLM analysis support business decisions.
 
 ### Key Technologies
-  - Graph Database concepts and Neo4j operations.
-  - Cypher for querying graph databases.
-  - LLM integration to enhance data retrieval.
-  - Knowledge Graph Visualization techniques.
-  - Data Analysis and Summary Presentation skills.
+  - **Graph Database** concepts and Neo4j operations.
+  - **Cypher** for querying graph databases.
+  - **LLM integration** to enhance data retrieval.
+  - **Knowledge Graph Visualization** techniques.
+  - **Data Analysis and Summary Presentation** skills.
 
 ### Prerequisites
   - Basic Python programming skills.
@@ -40,12 +40,12 @@ This project aims to build a scalable company information collection system usin
   - Initial knowledge of LLMs.
 
 ### Tools & Software
-  - Neo4j: for knowledge graph construction and querying.
-  - Python (Numpy, Pandas, Neo4j driver, visualization libraries)
-  - Cypher: Neo4j’s query language.
-  - OpenAI API (LLM calls; token usage fees apply)
-  - Langchain: framework for working with large models.
-  - GitHub: for version control and code management.
+  - **Neo4j**: for knowledge graph construction and querying.
+  - **Python** (Numpy, Pandas, Neo4j driver, visualization libraries)
+  - **Cypher**: Neo4j’s query language.
+  - **OpenAI API** (LLM calls; token usage fees apply)
+  - **Langchain**: framework for working with large models.
+  - **GitHub**: for version control and code management.
 
 ### Project Deliverables
   - Complete Neo4j knowledge graph.
