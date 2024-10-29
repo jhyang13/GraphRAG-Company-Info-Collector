@@ -6,24 +6,24 @@ This project aims to build a scalable company information collection system usin
 - Use Cypher queries for knowledge graph retrieval, combined with LLMs to enhance data extraction accuracy.
 
 ### Modules Overview
-- Data Input and Preprocessing
+- **Data Input and Preprocessing**
   - Preprocess raw company data to fit the graph database structure.
   - Set up the Neo4j environment and import data.
 
-- Knowledge Graph Construction
+- **Knowledge Graph Construction**
   - Define entities (e.g., company, industry, people, products) and relationships.
   - Insert data into Neo4j with a structured graph schema.
 
-- Cypher Graph Querying
+- **Cypher Graph Querying**
   - Create basic to advanced Cypher queries for company information extraction.
   - Retrieve entity relationships, detect patterns, and extract structured information.
   - Demonstrate complex queries for analyzing relationships between companies.
 
-- RAG and LLM Integration
+- **RAG and LLM Integration**
   - Introduce GraphRAG (combining knowledge graphs with Retrieval-Augmented Generation for dynamic information retrieval).
   - Enhance information extraction accuracy using LLMs to query the knowledge graph.
 
-- Project Use Case: Business Decision Support
+- **Project Use Case: Business Decision Support**
   - Collect and analyze target company information for real business challenges.
   - Show how insights from the knowledge graph and LLM analysis support business decisions.
 
