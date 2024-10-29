@@ -2,10 +2,11 @@
 
 This project aims to build a scalable company information collection system using Neo4j-based knowledge graphs and integrating large language models (LLMs) to enhance data extraction and analysis.
 
-Project Goals
-Develop a knowledge graph to organize and retrieve company-related information effectively, supporting informed business decisions.
-Use Cypher queries for knowledge graph retrieval, combined with LLMs to enhance data extraction accuracy.
-Modules Overview
+### Project Goals
+- Develop a knowledge graph to organize and retrieve company-related information effectively, supporting informed business decisions.
+- Use Cypher queries for knowledge graph retrieval, combined with LLMs to enhance data extraction accuracy.
+
+### Modules Overview
 Data Input and Preprocessing
 
 Preprocess raw company data to fit the graph database structure.
