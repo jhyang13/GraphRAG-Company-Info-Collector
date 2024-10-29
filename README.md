@@ -27,31 +27,39 @@ This project aims to build a scalable company information collection system usin
   - Collect and analyze target company information for real business challenges.
   - Show how insights from the knowledge graph and LLM analysis support business decisions.
 
-Key Technologies
-Graph Database concepts and Neo4j operations.
-Cypher for querying graph databases.
-LLM integration to enhance data retrieval.
-Knowledge Graph Visualization techniques.
-Data Analysis and Summary Presentation skills.
-Prerequisites
-Basic Python programming skills.
-Understanding of database concepts.
-Initial knowledge of LLMs.
-Tools & Software
-Neo4j: for knowledge graph construction and querying.
-Python (Numpy, Pandas, Neo4j driver, visualization libraries)
-Cypher: Neo4j’s query language.
-OpenAI API (LLM calls; token usage fees apply)
-Langchain: framework for working with large models.
-GitHub: for version control and code management.
-Project Deliverables
-Complete Neo4j knowledge graph.
-A set of Cypher query scripts for company information retrieval.
-Python scripts for data extraction and processing integrated with LLMs.
-A presentation document (PPT) summarizing insights from the knowledge graph and LLM analyses.
-Learning Outcomes
-Master the process of building knowledge graphs from scratch.
-Develop expertise in Cypher queries for complex data pattern retrieval.
-Learn to integrate LLMs with GraphRAG for efficient information retrieval.
-Improve data visualization and business decision presentation skills.
-Gain practical experience in project management, programming, and data science.
+### Key Technologies
+  - Graph Database concepts and Neo4j operations.
+  - Cypher for querying graph databases.
+  - LLM integration to enhance data retrieval.
+  - Knowledge Graph Visualization techniques.
+  - Data Analysis and Summary Presentation skills.
+
+### Prerequisites
+  - Basic Python programming skills.
+  - Understanding of database concepts.
+  - Initial knowledge of LLMs.
+
+### Tools & Software
+  - Neo4j: for knowledge graph construction and querying.
+  - Python (Numpy, Pandas, Neo4j driver, visualization libraries)
+  - Cypher: Neo4j’s query language.
+  - OpenAI API (LLM calls; token usage fees apply)
+  - Langchain: framework for working with large models.
+  - GitHub: for version control and code management.
+
+### Project Deliverables
+  - Complete Neo4j knowledge graph.
+  - A set of Cypher query scripts for company information retrieval.
+  - Python scripts for data extraction and processing integrated with LLMs.
+  - A presentation document (PPT) summarizing insights from the knowledge graph and LLM analyses.
+
+### Learning Outcomes
+  - Master the process of building knowledge graphs from scratch.
+  - Develop expertise in Cypher queries for complex data pattern retrieval.
+  - Learn to integrate LLMs with GraphRAG for efficient information retrieval.
+  - Improve data visualization and business decision presentation skills.
+  - Gain practical experience in project management, programming, and data science.
+
+
+
+
