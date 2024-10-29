@@ -1,0 +1,1 @@
+# GraphRAG-Company-Info-Collector
