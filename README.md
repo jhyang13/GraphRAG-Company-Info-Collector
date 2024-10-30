@@ -1,4 +1,7 @@
 ## GraphRAG-Company-Info-Collector
+
+![image](https://github.com/user-attachments/assets/ae06c7db-2b56-48fc-ac08-f577af17b645)
+
 This project aims to build a scalable company information collection system using Neo4j-based knowledge graphs and integrating large language models (LLMs) to enhance data extraction and analysis.
 
 ### Project Goals
