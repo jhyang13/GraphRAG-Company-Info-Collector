@@ -67,5 +67,9 @@ This project aims to build a scalable company information collection system usin
 
 ![image](https://github.com/user-attachments/assets/232b2d3b-82fc-4292-987e-b4ab180fe6a3)
 
+![image](https://github.com/user-attachments/assets/f62f3d5f-40e3-4dec-9c19-e3d8d6aee087)
+
+
+
 
 
