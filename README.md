@@ -63,6 +63,7 @@ This project aims to build a scalable company information collection system usin
   - Improve data visualization and business decision presentation skills.
   - Gain practical experience in project management, programming, and data science.
 
+![image](https://github.com/user-attachments/assets/232b2d3b-82fc-4292-987e-b4ab180fe6a3)
 
 
 
