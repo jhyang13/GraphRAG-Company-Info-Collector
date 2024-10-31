@@ -50,6 +50,7 @@ This project aims to build a scalable company information collection system usin
   - **Langchain**: framework for working with large models.
   - **GitHub**: for version control and code management.
 
+**Link:** https://neo4j.com/labs/genai-ecosystem/langchain/?utm_source=GSearch&utm_medium=PaidSearch&utm_campaign=Evergreen&utm_content=AMS-Search-SEMCE-DSA-None-SEM-SEM-NonABM&utm_term=&utm_adgroup=DSA-GenAI&gad_source=1&gclid=Cj0KCQjwsoe5BhDiARIsAOXVoUucYC9p07aOm_iCZkQ_GecKY-6RXHOHwOPHqp8t2-2t29JmL6n7-qsaAmonEALw_wcB
 ![image](https://github.com/user-attachments/assets/7e9121fe-d252-41ef-a890-32b4e1d4ae04)
 
 ### Project Deliverables
