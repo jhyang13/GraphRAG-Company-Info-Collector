@@ -50,6 +50,8 @@ This project aims to build a scalable company information collection system usin
   - **Langchain**: framework for working with large models.
   - **GitHub**: for version control and code management.
 
+![image](https://github.com/user-attachments/assets/7e9121fe-d252-41ef-a890-32b4e1d4ae04)
+
 ### Project Deliverables
   - Complete Neo4j knowledge graph.
   - A set of Cypher query scripts for company information retrieval.
