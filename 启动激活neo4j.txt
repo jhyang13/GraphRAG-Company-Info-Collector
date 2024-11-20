@@ -11,10 +11,19 @@
 系统会询问你是否要终止进程，确认即可。
 
 
-笔记: 
+10/13/2024上课笔记:
 Company form manager 都可以作为node
 manager和company有关系 company和form有关系 match cusip6 merge
 cypher检查搭建的database
 
-
+11/16/2024上课笔记:
+form10k关于公司：用JSON创建公司的node
+form13表格：用form13创建manager的信息，然后用CUSIP6找到公司，把manager和公司串联
+relationship: value什么的是正确的
+Neo4j Graph和longchain结合
+longchain用同样的localhost
+longchain中的cypher例子：获取一家manager下的公司
+embedding model：用vector search
+问题：所有投资了Uhal的公司
+Json文件 
 
